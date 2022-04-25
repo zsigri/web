@@ -1,0 +1,27 @@
+div {
+	width: 500px;
+	}
+label {
+	line-height: 30px;
+	color: SaddleBrown;
+	}
+label input, label textarea {
+	float: right;
+	border: 2px Tan solid;
+	padding: 2px;
+	}
+textarea {
+	width: 350px;
+	}
+input[type="submit"] {
+	float: right;
+	clear: both;
+	}
+button {
+	float: right;
+    color: SaddleBrown;
+	}
+	body {
+    background-image: url('khatter.jpg');
+    background-position: center top;                
+}
